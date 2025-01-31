@@ -1,4 +1,4 @@
-name:  ikuuuCheckin
+name:  ikuuu.one Checkin
 on:
   push:
     branches: [ main ]
